@@ -1,4 +1,4 @@
-# Hello, There! 👋
+# Hello, There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm **Andres** 
 
@@ -29,3 +29,13 @@ You can reach me via email to nelwey1234@gmail.com. I'll be glad to hear from yo
 ∎ Check my blog: [My blog](https://www.nelwey.me/) 👈
 
 ∎ Check my porfolio: [My porfolio](https://nelwey.github.io/) 👈
+
+### My Github Stats
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nelwey&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nelwey&count_private=true&include_all_commits=true&theme=flat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelwey&layout=compact&theme=flat" />
+</div>
+
