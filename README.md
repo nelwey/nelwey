@@ -26,9 +26,9 @@ I'm **Andres**
 
 You can reach me via email to nelwey1234@gmail.com. I'll be glad to hear from you!
 
-∎ Check my blog: [My blog](https://www.nelwey.me/) 👈
+∎ Check my blog: <a href="https://www.nelwey.me/" target="_blank">My blog</a>  👈
 
-∎ Check my porfolio: [My porfolio](https://nelwey.github.io/) 👈
+∎ Check my porfolio: <a href="https://nelwey.github.io/" target="_blank">My porfolio</a>  👈
 
 ### My Github Stats
 
